@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="nhanvien">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaNV" type="xs:string" minOccurs="0" />
+              <xs:element name="Ho" type="xs:string" minOccurs="0" />
+              <xs:element name="Ten" type="xs:string" minOccurs="0" />
+              <xs:element name="GioiTinh" type="xs:string" minOccurs="0" />
+              <xs:element name="SoCMND" type="xs:string" minOccurs="0" />
+              <xs:element name="Ngaysinh" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="NoiSinh" type="xs:string" minOccurs="0" />
+              <xs:element name="MaTG" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MaDT" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DienThoai" type="xs:string" minOccurs="0" />
+              <xs:element name="DTDD" type="xs:string" minOccurs="0" />
+              <xs:element name="HoKhauTT" type="xs:string" minOccurs="0" />
+              <xs:element name="ChoOHienTai" type="xs:string" minOccurs="0" />
+              <xs:element name="TinhtrangHonNhan" type="xs:string" minOccurs="0" />
+              <xs:element name="Hinhanh" type="xs:string" minOccurs="0" />
+              <xs:element name="MaChucVu" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MaPhong" type="xs:string" minOccurs="0" />
+              <xs:element name="MaTo" type="xs:string" minOccurs="0" />
+              <xs:element name="NgayVaoLam" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="SoBHYT" type="xs:string" minOccurs="0" />
+              <xs:element name="SoBHXH" type="xs:string" minOccurs="0" />
+              <xs:element name="SoTheATM" type="xs:string" minOccurs="0" />
+              <xs:element name="GhiChu" type="xs:string" minOccurs="0" />
+              <xs:element name="Email" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="phong">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaPhong" type="xs:string" minOccurs="0" />
+              <xs:element name="TenPhong" type="xs:string" minOccurs="0" />
+              <xs:element name="DienThoai" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="chucvu">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaChucVu" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TenChucVu" type="xs:string" minOccurs="0" />
+              <xs:element name="PhuCap" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

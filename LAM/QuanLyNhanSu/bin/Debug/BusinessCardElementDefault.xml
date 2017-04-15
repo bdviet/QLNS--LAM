@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlTheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ThemeName="ControlDefault">
+  <BuilderRegistrations>
+    <XmlStyleBuilderRegistration BuilderType="Telerik.WinControls.DefaultStyleBuilder">
+      <StylesheetRelations>
+        <RadStylesheetRelation RegistrationType="ElementTypeDefault" ElementType="Telerik.Examples.WinControls.Integration.CommonFunctionality.Scaling.Gallery.BusinessCardElement" ControlName="" ElementName="" />
+      </StylesheetRelations>
+      <BuilderData xsi:type="XmlStyleSheet">
+        <PropertySettingGroups>
+          <XmlPropertySettingGroup>
+            <PropertySettings>
+              <XmlPropertySetting Property="Telerik.WinControls.Primitives.FillPrimitive.GradientAngle" Value="90" />
+              <XmlPropertySetting Property="Telerik.WinControls.VisualElement.BackColor" Value="White" />
+              <XmlPropertySetting Property="Telerik.WinControls.Primitives.FillPrimitive.BackColor2" Value="224,241,247" />
+              <XmlPropertySetting Property="Telerik.WinControls.RadElement.Padding" Value="3, 3, 3, 3" />              
+            </PropertySettings>
+            <Selectors>
+              <XmlClassSelector ElementClass="CaptionFill" AutoUnapply="False" />
+            </Selectors>
+          </XmlPropertySettingGroup>
+          <XmlPropertySettingGroup>
+            <PropertySettings>
+              <XmlPropertySetting Property="Telerik.WinControls.VisualElement.ForeColor" Value="84, 106, 118" />
+              <XmlPropertySetting Property="Telerik.WinControls.Primitives.BorderPrimitive.InnerColor" Value="203, 220, 228" />
+              <XmlPropertySetting Property="Telerik.WinControls.Primitives.BorderPrimitive.BoxStyle" Value="OuterInnerBorders" />
+              <XmlPropertySetting Property="Telerik.WinControls.Primitives.BorderPrimitive.GradientStyle" Value="Solid" />
+            </PropertySettings>
+            <Selectors>
+              <XmlTypeSelector ElementType="Telerik.WinControls.Primitives.BorderPrimitive" AutoUnapply="False" />
+            </Selectors>
+          </XmlPropertySettingGroup>
+          <XmlPropertySettingGroup>
+            <PropertySettings>
+              <XmlPropertySetting Property="Telerik.WinControls.Primitives.FillPrimitive.GradientAngle" Value="90" />
+              <XmlPropertySetting Property="Telerik.WinControls.VisualElement.BackColor" Value="213,232,238" />
+              <XmlPropertySetting Property="Telerik.WinControls.Primitives.FillPrimitive.NumberOfColors" Value="4" />              
+              <XmlPropertySetting Property="Telerik.WinControls.Primitives.FillPrimitive.GradientPercentage" Value="0.33" />
+              <XmlPropertySetting Property="Telerik.WinControls.Primitives.FillPrimitive.GradientPercentage2" Value="0.66" />
+              <XmlPropertySetting Property="Telerik.WinControls.Primitives.FillPrimitive.BackColor2" Value="196,219,228" />
+              <XmlPropertySetting Property="Telerik.WinControls.Primitives.FillPrimitive.BackColor3" Value="173,201,214" />
+              <XmlPropertySetting Property="Telerik.WinControls.Primitives.FillPrimitive.BackColor4" Value="153,186,203" />
+            </PropertySettings>
+            <Selectors>
+              <XmlClassSelector ElementClass="BodyFill" AutoUnapply="False" />
+            </Selectors>
+          </XmlPropertySettingGroup>
+          <XmlPropertySettingGroup>
+            <PropertySettings>              
+              <XmlPropertySetting Property="Telerik.WinControls.VisualElement.ForeColor" Value="84, 106, 118" />
+            </PropertySettings>
+            <Selectors>
+              <XmlClassSelector ElementClass="DetailsItem" AutoUnapply="False" />
+            </Selectors>
+          </XmlPropertySettingGroup>
+          <XmlPropertySettingGroup>
+            <PropertySettings>
+              <XmlPropertySetting Property="Telerik.WinControls.VisualElement.ForeColor" Value="67,67,67" />
+              <XmlPropertySetting Property="Telerik.WinControls.RadElement.Shape" Value="Telerik.WinControls.RoundRectShape|3" />
+              <XmlPropertySetting Property="Telerik.WinControls.VisualElement.SmoothingMode" Value="AntiAlias" />
+              <XmlPropertySetting Property="Telerik.WinControls.VisualElement.Font" Value="Arial, 8.25pt" />
+            </PropertySettings>
+            <Selectors>
+              <XmlTypeSelector ElementType="Telerik.Examples.WinControls.Integration.CommonFunctionality.Scaling.Gallery.BusinessCardElement" AutoUnapply="False" />
+            </Selectors>
+          </XmlPropertySettingGroup>
+        </PropertySettingGroups>
+      </BuilderData>
+    </XmlStyleBuilderRegistration>
+  </BuilderRegistrations>
+</XmlTheme>

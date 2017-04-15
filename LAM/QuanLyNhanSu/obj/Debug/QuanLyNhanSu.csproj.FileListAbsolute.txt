@@ -1,0 +1,336 @@
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\RadControlSpy.dll
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmConfig.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmPhanQuyen.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDangNhap.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmNhanVien.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmbangtileluong.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmbangluong.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmkiemtrabangluong.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMChucVu.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmchonbcluong.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptbcbh.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptluongtheophong.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmchonbcnv.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptbcnhanvien.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrpthsnhanvien.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmKiemTraHDHetHan.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptNV_HDhethan.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDoiMatKhau.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMChuyenMon.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMDanToc.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMHieuQua.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMLoaiHD.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMNgoaiNgu.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMPhongBan.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTo.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTonGiao.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTrinhDo.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmUser.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TransDialog.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmbangluong.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmbangtileluong.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmchonbcluong.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmchonbcnv.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmConfig.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDangNhap.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMChucVu.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMChuyenMon.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMDanToc.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMHieuQua.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMLoaiHD.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMNgoaiNgu.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMPhongBan.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTo.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTonGiao.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTrinhDo.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDoiMatKhau.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmkiemtrabangluong.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmKiemTraHDHetHan.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmNhanvien.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmPhanQuyen.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptbcbh.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptbcnhanvien.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrpthsnhanvien.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptluongtheophong.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptNV_HDhethan.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmUser.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TransDialog.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\RadControlSpy.dll
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutrinhdo.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutt.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutthopdong.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1_.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmLichLamViec.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmThongTin.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TransDialog1.resources
+C:\Documents and Settings\Admin\Desktop\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmThongBaoLichLamViec.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\Telerik.WinControls.xml
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\Telerik.WinControls.UI.Design.xml
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\Telerik.WinControls.Scheduler.xml
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\Telerik.WinControls.GridView.xml
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\Telerik.WinControls.Docking.xml
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\Telerik.WinControls.RadChart.xml
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\Telerik.WinControls.UI.xml
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\ResolveAssemblyReference.cache
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmLichLamViec.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1_.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmThongTin.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmbangluong.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmbangtileluong.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmchonbcluong.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmchonbcnv.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmConfig.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDangNhap.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMChucVu.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMChuyenMon.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMDanToc.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMHieuQua.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMLoaiHD.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMNgoaiNgu.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMPhongBan.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTo.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTonGiao.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTrinhDo.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDoiMatKhau.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmkiemtrabangluong.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmKiemTraHDHetHan.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmNhanvien.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmPhanQuyen.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptbcbh.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptbcnhanvien.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrpthsnhanvien.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptluongtheophong.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptNV_HDhethan.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutrinhdo.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutt.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutthopdong.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmUser.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmThongBaoLichLamViec.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TransDialog.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TransDialog1.resources
+F:\Bai Tap\Project\Sem 3\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+H:\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+H:\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+H:\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\ResolveAssemblyReference.cache
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmLichLamViec.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1_.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmThongTin.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmbangluong.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmbangtileluong.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmchonbcluong.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmchonbcnv.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmConfig.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDangNhap.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMChucVu.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMChuyenMon.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMDanToc.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMHieuQua.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMLoaiHD.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMNgoaiNgu.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMPhongBan.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTo.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTonGiao.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTrinhDo.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDoiMatKhau.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmkiemtrabangluong.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmKiemTraHDHetHan.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmNhanvien.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmPhanQuyen.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptbcbh.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptbcnhanvien.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrpthsnhanvien.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptluongtheophong.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptNV_HDhethan.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutrinhdo.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutt.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutthopdong.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmUser.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmThongBaoLichLamViec.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TransDialog.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TransDialog1.resources
+H:\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\ResolveAssemblyReference.cache
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmLichLamViec.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1_.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmThongTin.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmbangluong.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmbangtileluong.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmchonbcluong.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmchonbcnv.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmConfig.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDangNhap.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMChucVu.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMChuyenMon.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMDanToc.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMHieuQua.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMLoaiHD.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMNgoaiNgu.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMPhongBan.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTo.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTonGiao.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTrinhDo.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDoiMatKhau.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmkiemtrabangluong.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmKiemTraHDHetHan.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmNhanvien.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmPhanQuyen.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptbcbh.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptbcnhanvien.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrpthsnhanvien.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptluongtheophong.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptNV_HDhethan.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutrinhdo.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutt.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutthopdong.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmUser.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmThongBaoLichLamViec.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TransDialog.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TransDialog1.resources
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\ResGen.read.1.tlog
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\obj\Debug\ResGen.write.1.tlog
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\Telerik.WinControls.xml
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\Telerik.WinControls.Docking.xml
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\Telerik.WinControls.GridView.xml
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\Telerik.WinControls.RadChart.xml
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\Telerik.WinControls.Scheduler.xml
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\Telerik.WinControls.UI.xml
+D:\LAPTRINH\Technology\WindowForm\Project\QuanLyNhanSu_1\QuanLyNhanSu\bin\Debug\Telerik.WinControls.UI.Design.xml
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmLichLamViec.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1_.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmThongTin.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmbangluong.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmbangtileluong.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmchonbcluong.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmchonbcnv.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmConfig.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDangNhap.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMChucVu.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMChuyenMon.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMDanToc.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMHieuQua.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMLoaiHD.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMNgoaiNgu.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMPhongBan.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTo.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTonGiao.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTrinhDo.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDoiMatKhau.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmkiemtrabangluong.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmKiemTraHDHetHan.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmNhanvien.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmPhanQuyen.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptbcbh.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptbcnhanvien.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrpthsnhanvien.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptluongtheophong.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptNV_HDhethan.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutrinhdo.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutt.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutthopdong.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmUser.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmThongBaoLichLamViec.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TransDialog.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TransDialog1.resources
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\ResGen.read.1.tlog
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\obj\Debug\ResGen.write.1.tlog
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\bin\Debug\Telerik.WinControls.xml
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\bin\Debug\Telerik.WinControls.Docking.xml
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\bin\Debug\Telerik.WinControls.RadChart.xml
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\bin\Debug\Telerik.WinControls.Scheduler.xml
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\dat.ngo\Desktop\DETAI\QuanLyNhanSu\bin\Debug\Telerik.WinControls.UI.Design.xml
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmLichLamViec.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1_.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmThongTin.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmbangluong.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmbangtileluong.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmchonbcluong.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmchonbcnv.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmConfig.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDangNhap.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMChucVu.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMChuyenMon.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMDanToc.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMHieuQua.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMLoaiHD.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMNgoaiNgu.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMPhongBan.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTo.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTonGiao.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDMTrinhDo.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDoiMatKhau.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmkiemtrabangluong.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmKiemTraHDHetHan.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmNhanvien.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmPhanQuyen.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptbcbh.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptbcnhanvien.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrpthsnhanvien.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptluongtheophong.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmrptNV_HDhethan.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutrinhdo.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutt.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmtracuutthopdong.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmUser.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmThongBaoLichLamViec.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TransDialog.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TransDialog1.resources
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\TIIN\Desktop\12\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb

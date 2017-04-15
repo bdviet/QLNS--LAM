@@ -1,0 +1,5 @@
+﻿Server:DESKTOP-76NH8MU
+Database:QuanLyNhanSu
+Username:
+Password:
+
